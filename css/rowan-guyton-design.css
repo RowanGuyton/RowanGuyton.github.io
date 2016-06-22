@@ -1,0 +1,70 @@
+.custom-nav-icons, .logo {
+	margin-bottom: 50px;
+}
+
+.panel {
+	background-color: #F9FBFC;
+	border: 0px;
+	margin-bottom:50px;
+}
+
+.panel-primary> .panel-heading {
+	background-color: #222
+}
+
+.example-project {
+	background-color:#222;
+}
+
+h4 {
+	color: #F9FBFC;
+}
+
+.logo {
+	max-width:360px;
+	margin:0px auto;
+	margin-top:40px;
+	margin-bottom:20px;
+}
+
+.navbar {
+	min-height:90px;
+}
+
+.navbar-inverse {
+	border-color: #F9FBFC;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: rgb(204, 204, 204);
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #366ec2;
+    background-color: transparent;
+}
+
+.navbar-nav {
+	margin-top:20px;
+	margin-left:15px;
+	font-size:15px;
+}
+
+.page-header {
+	margin-top:65px;
+}
+
+p {
+	color: #222;
+}
+
+hr {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 0;
+    border-top: 2px solid #222;
+}
+
+.graphic-design-example {
+	margin-top:20px;
+}
