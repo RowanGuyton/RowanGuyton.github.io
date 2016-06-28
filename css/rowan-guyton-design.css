@@ -1,3 +1,7 @@
+.about-me-info-header {
+	color:#3771C8;
+}
+
 .business-header {
 	height: 380px;
 }
@@ -72,3 +76,8 @@ hr {
 .graphic-design-example {
 	margin-top:20px;
 }
+
+.web-design-list, .programming-list, .graphic-design-list, .education-list, .previous-education-list, .subject-list {
+	margin-bottom:15px;
+}
+
