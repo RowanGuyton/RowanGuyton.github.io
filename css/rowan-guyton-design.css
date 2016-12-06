@@ -2,12 +2,19 @@
     padding-top: 135px;
 }
 
-@media (min-width: 767px)
-.content-section {
-    padding-top: 175px;
+@media (min-width: 767px) {
+	.content-section {
+		padding-top: 175px;
+	}
 }
 
 .logo {
-	margin-bottom: 35px;
+		margin-bottom: 35px;
+	}
+
+@media (max-width: 768px) {
+	.logo {
+		max-width: 100%;
+	}
 }
 
