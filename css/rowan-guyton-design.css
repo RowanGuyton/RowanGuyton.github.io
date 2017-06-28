@@ -2,9 +2,9 @@
     padding-top: 135px;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 768px) {
 	.content-section {
-		padding-top: 175px;
+		padding-top: 125px;
 	}
 }
 
